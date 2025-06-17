@@ -34,7 +34,7 @@ README.md                      # Project overview and setup guide
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/sentimentofrarelements.git
+git clone https://github.com/Anshul-ydv/sentiment-analysis-of-rare-metals.git
 cd sentimentofrarelements
 ```
 
